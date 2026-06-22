@@ -1,0 +1,8 @@
+Project Documentation: Analysis of Transportation Networks
+This initiative involves a transport system encompassing 500 cities. We applied Graph Theory to create a representation of it. Every city resembles a dot. The paths connecting them resemble lines of varying lengths. We created a list detailing all the roads and the cities they link.
+We examined the network to understand its functioning. We employed several techniques to accomplish this:
+* We utilized BFS and DFS to determine the connections between cities and identify grouped locations.
+* We examined the connections among all the cities to identify the cluster of cities that are interconnected.
+* We discovered how many small clusters of cities are disconnected from the group.
+* We applied Dijkstra's Algorithm to determine the route from one city to all other accessible cities.
+This project demonstrates how graph theory can enhance transportation planning, optimize routes, and improve our comprehension of global networks. This can help improve transportation networks. The transportation network is integral to our lives, and this project focuses on the transportation network.
